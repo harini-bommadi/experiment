@@ -12,6 +12,5 @@ func arr() {
 func main() {
 	fmt.Println("Hello World")
 	arr()
-	arr()
 	fmt.Println("Array printed Twice")
 }
