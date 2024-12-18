@@ -12,4 +12,5 @@ func arr() {
 func main() {
 	fmt.Println("Hello World")
 	arr()
+	arr()
 }
